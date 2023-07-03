@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "463631792568",
+    "project_id": "fan-chat-a3fba",
+    "storage_bucket": "fan-chat-a3fba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463631792568:android:63b02c68522c6333d6f74d",
+        "android_client_info": {
+          "package_name": "com.example.fan_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463631792568-i4vkqmhufj287fg4b59jna1i57udehg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT09HDqJEDUSM4EKwBDzaV7Sa8r7UkveM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463631792568-i4vkqmhufj287fg4b59jna1i57udehg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
